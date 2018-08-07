@@ -3,3 +3,4 @@ target/tomcat/logs/access_log.2018-08-06
 target/tomcat/logs/access_log.2018-08-07
 target/tomcat/logs/access_log.2018-08-06
 *.2018-08-06
+target/tomcat/logs/access_log.2018-08-06
