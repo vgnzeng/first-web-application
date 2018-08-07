@@ -1,10 +1,10 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <title>Yahoo!!</title>
 </head>
 <body>
-My First JSP!!! My name is ${name} and password is ${password}
+	<form action="/login.do" method="POST">
+		Name : <input name="name" type="text" /> <input type="submit" />
+	</form>
 </body>
 </html>
